@@ -2,25 +2,57 @@
     {
         "id": "1",
         "name": "sujoy ghoshal",
-        "email": "sujoyghoshal.s@gmail.com",
-        "git": "https://github.com/sujoyghoshal"
+        "email": "sujoy1196.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/sujoyghoshal",
+        "image": "https://media.licdn.com/dms/image/D4D03AQEoij4l8Kaa2A/profile-displayphoto-shrink_800_800/0/1693567501592?e=1716422400&v=beta&t=X21dhIdlfFc5yRVm8ir-ratSg4kNfe1L1cl-73AAqAM"
     },
     {
         "id": "2",
         "name": "akash jana",
-        "email": "akashjana@gmail.com",
-        "git": "https://github.com/janaakash1233"
+        "email": "akash1017.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/janaakash1233",
+        "image": "https://media.licdn.com/dms/image/D4D03AQHSkwhG2JAUYA/profile-displayphoto-shrink_800_800/0/1679514272172?e=1716422400&v=beta&t=3DuAt7KTdzv6rRSddZ811iZuFgnZsqXdr2My-OfwgmE"
     },
     {
         "id": "3",
         "name": "pritam sasmal",
-        "email": "pritamsasmal@gmail.com",
-        "git": "https://github.com/pritam-sasmal"
+        "email": "pritam1146.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/pritam-sasmal",
+        "image": "https://media.licdn.com/dms/image/C4E03AQEHAYDGQjGonA/profile-displayphoto-shrink_800_800/0/1650441226527?e=1716422400&v=beta&t=pRfHP2L2DbQwhBatDTWeSfJLd3LutrgaP84SC713hV0"
     },
     {
         "id": "4",
         "name": "sumit mula",
-        "email": "sumitmula@gmail.com",
-        "git": "https://github.com/mulasumit12"
+        "email": "sumit1197.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/mulasumit12",
+        "image": "https://media.licdn.com/dms/image/D4D03AQGauPQjcH_Iqw/profile-displayphoto-shrink_800_800/0/1694245686260?e=1716422400&v=beta&t=mu0g-qcGDbz4fiwERmGw3Az6YQH4XUr8YOkd7QP6hnk"
+    },
+    {
+        "id": "5",
+        "name": "subha kumar ghorai",
+        "email": "subha1190.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/subha-0",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "name": "souvik das",
+        "email": "souvik1188.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/SouvikDas2002",
+        "image": "https://media.licdn.com/dms/image/D5635AQE0K3PF-EISYw/profile-framedphoto-shrink_800_800/0/1709196833833?e=1711828800&v=beta&t=jALG89DvF-oHLaUY1Fm3jRKXvSCW3S7GQ3dpKNA20Is"
+    },
+    {
+        "id": "7",
+        "name": "mrinal Partra",
+        "email": "mrinal1126.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/mrinal2002",
+        "image": "https://media.licdn.com/dms/image/D4D03AQFA0UgTk1z3xA/profile-displayphoto-shrink_800_800/0/1693568143521?e=1716422400&v=beta&t=5nSv9MI-m6nmQWLzMeyd1GEvFZIn-J6CCoS62kBu5fU"
+    },
+    {
+        "id": "8",
+        "name": "subajyoti das",
+        "email": "mrinal1126.be21@chitkarauniversity.edu.in",
+        "git": "https://github.com/mrinal2002",
+        "image": "https://media.licdn.com/dms/image/D5603AQFnmZ1NYurFbA/profile-displayphoto-shrink_800_800/0/1710595616229?e=1716422400&v=beta&t=lrb37WrapVVNyWaiR6HATg6_mxGOQcLbKJPnMErNcFc"
     }
 ]
